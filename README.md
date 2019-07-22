@@ -24,5 +24,5 @@
 * 11：定义函数def right_step2(old_list)
 * 12：定义函数def right(old_list)
 ## 外部依赖
-Python3
-参考资料：https://blog.csdn.net/weixin_40962422/article/details/78907529
+* Python3
+* 参考资料：https://blog.csdn.net/weixin_40962422/article/details/78907529
